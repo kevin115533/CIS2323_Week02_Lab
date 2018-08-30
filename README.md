@@ -1,3 +1,5 @@
 #CIS2323 Java
 
-*Lab work
+*primitive variables
+*input methods
+*OOP
